@@ -51,6 +51,6 @@ Set `data-scrollsync` on the elements you want to synchronise scrolling and you'
 
 ## Support 💬
 
-- 🐞 For Bug Reports and Enhancements please use the [issues section](https://github.com/Alex61NN5/easy-social-share-links/issues)
+- 🐞 For Bug Reports and Enhancements please use the [issues section](https://github.com/Alex61NN5/easy-scroll-sync/issues)
 
 - 🕊️ To contact me directly you can find me via my [twitter](https://twitter.com/alexginns)
