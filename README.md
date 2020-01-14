@@ -8,7 +8,7 @@
 
 ## Features 🔥
 
-- Less than 2kb! (under 1kb minified)
+- Less than 2kb!
 - Zero Dependencies
 - Easy to use! 💪
 
