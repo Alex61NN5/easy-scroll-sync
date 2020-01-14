@@ -1,6 +1,6 @@
 {
 	"name": "easy-scroll-sync",
-	"version": "1.0.1",
+	"version": "1.0.6",
 	"description": "Easily syncronize scrolling between elements",
 	"main": "dist/easy-scroll-sync.min.js",
 	"module": "dist/easy-scroll-sync.esm.js",
