@@ -31,7 +31,7 @@ yarn add easy-scroll-sync
 At the bottom of you body tag
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/easy-scroll-sync@latest/dist/easy-scroll-sync.min.j"></script>
+<script src="https://cdn.jsdelivr.net/npm/easy-scroll-sync@latest/dist/easy-scroll-sync.min.js"></script>
 ```
 
 ## Usage 💻
