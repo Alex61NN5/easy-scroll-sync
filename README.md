@@ -2,7 +2,6 @@
 
 ![npm version](https://img.shields.io/npm/v/easy-scroll-sync.svg)
 ![bundlephobia](https://img.shields.io/bundlephobia/min/easy-scroll-sync.svg)
-![twitter](https://img.shields.io/twitter/follow/alexginns.svg?style=social)
 
 > Easily Synchronise scrolling between elements!
 
@@ -39,7 +38,7 @@ At the bottom of you body tag
 If you are using a module loader you will need to import `easy-scroll-sync`
 
 ```js
-import EasyScrollSync from 'easy-scroll-sync';
+import { easyScrollSync } from "easy-scroll-sync";
 ```
 
 Set `data-scrollsync` on the elements you want to synchronise scrolling and you're done!
@@ -49,8 +48,8 @@ Set `data-scrollsync` on the elements you want to synchronise scrolling and you'
 <div data-scrollsync class="scrollable_item_2"></div>
 ```
 
+You can also call `easyScrollSync()` to reset and recreate the elements scroll listeners.
+
 ## Support 💬
 
 - 🐞 For Bug Reports and Enhancements please use the [issues section](https://github.com/Alex61NN5/easy-scroll-sync/issues)
-
-- 🕊️ To contact me directly you can find me via my [twitter](https://twitter.com/alexginns)
